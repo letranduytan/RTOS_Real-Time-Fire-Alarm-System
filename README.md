@@ -12,6 +12,14 @@
 
 This project builds a **real-time fire alarm system (RTOS)** using temperature and gas sensors to detect potential fire risks and provide early warnings. The system utilizes **FreeRTOS** to manage multitasking, ensuring fast and stable response times.
 
+<p align="center">
+  <img src="/output/012.png" alt="Output Image">
+  CLIENT SIMULATION: RECEIVE DATA FROM SENSORS AND SEND TO SERVER
+  <img src="/output/022.png" alt="Output Image">
+  SERVER SIMULATION: RECEIVE DATA FROM CLIENT AND ISSUE ALERTS
+  <img src="/output/032.png" alt="Output Image">
+</p>
+
 ---
 
 ## ⚙️ Technologies and Components
