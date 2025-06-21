@@ -1,4 +1,4 @@
-# RTOS Real Time Fire Alarm System
+# [RTOS] Real Time Fire Alarm System
 
 <p align="center">
 <a href="https://twitter.com/12dtan" target="_blank"><img src="https://img.shields.io/twitter/follow/12dtan.svg?style=social&label=Follow"></a>
